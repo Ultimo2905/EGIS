@@ -1,0 +1,12 @@
+<svg width="1800" height="640" viewBox="0 0 1800 640" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>footer-circle-slice</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3114 1924)">
+<g id="footer-circle-slice">
+<use xlink:href="#path0_fill" transform="translate(3114 -1924)" fill="#F0F0F0"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 1800 7.84399L 1800 640L 0 640L 0 422.148C 463.515 153.679 1001.81 0 1576 0C 1651.31 0 1726.01 2.64392 1800 7.84399Z"/>
+</defs>
+</svg>
